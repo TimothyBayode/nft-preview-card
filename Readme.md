@@ -38,6 +38,6 @@ I learned how to use varying opacity and transparent backgrounds on images hover
 
 ## Author
 
-- Website - [Timothy Bayode](https://timothybayode.verce.app)
+- Website - [Timothy Bayode](https://timothybayode.vercel.app)
 - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/TimothyBayode)
 - LinkedIn - [Timothy Bayode](https://www.linkedin.com/in/timothy-bayode)
