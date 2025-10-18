@@ -80,6 +80,12 @@ p, .inf-text {
     margin-bottom: 6px;
 }
 
+.author img {
+     width: 20px;
+    border: 1px solid hsl(0, 0%, 100%);
+    border-radius: 100%;"
+}
+
 .emph {
     color: hsl(0, 0%, 100%);
     cursor: pointer;
