@@ -23,8 +23,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Click] (https://www.frontendmentor.io/solutions/nft-preview-card-component-page-using-html5-and-css-WfNQo6U3BD)
+- Live Site URL: [Click](https://nft-preview-card-seven-lake.vercel.app/)
 
 ### Built with
 
