@@ -19,12 +19,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](images/screenshot.png)
+![](./screenshot.png)
 
 ### Links
 
-- Solution URL: [Click] (https://www.frontendmentor.io/solutions/nft-preview-card-component-page-using-html5-and-css-WfNQo6U3BD)
-- Live Site URL: [Click](https://nft-preview-card-seven-lake.vercel.app/)
+- Solution URL: [Click here](https://www.frontendmentor.io/solutions/nft-preview-card-component-page-using-html5-and-css-WfNQo6U3BD)
+- Live Site URL: [Click here](https://nft-preview-card-seven-lake.vercel.app/)
 
 ### Built with
 
