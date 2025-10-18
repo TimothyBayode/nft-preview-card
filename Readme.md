@@ -19,7 +19,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.png)
+![Screenshot](./images/screenshot.png)
 
 ### Links
 
@@ -39,5 +39,5 @@ I learned how to use varying opacity and transparent backgrounds on images hover
 ## Author
 
 - Website - [Timothy Bayode](https://timothybayode.vercel.app)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/TimothyBayode)
+- Frontend Mentor - [@TimothyBayode](https://www.frontendmentor.io/profile/TimothyBayode)
 - LinkedIn - [Timothy Bayode](https://www.linkedin.com/in/timothy-bayode)
